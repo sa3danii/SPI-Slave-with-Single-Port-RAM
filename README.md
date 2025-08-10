@@ -4,7 +4,7 @@ This project implements an SPI Slave module in Verilog with an integrated RAM bl
 It supports read and write operations controlled via an FSM (Finite State Machine) and communicates with a master device using the SPI protocol.
 
 The design has been verified through simulation in Vivado and can be tested on hardware with an SPI master (e.g., microcontroller or another FPGA).
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 Features
 ---------
 SPI Slave implementation in Verilog.
